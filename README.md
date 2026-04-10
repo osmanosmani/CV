@@ -1,4 +1,4 @@
-# 👨‍💻 Osman Osmani – CV
+#  Osman Osmani – CV
 
 Welcome to my professional CV repository.
 
